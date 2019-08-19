@@ -1,0 +1,3 @@
+([('xinxin_v1',
+   '/Users/syf/PycharmProjects/TianPy/atdesk/dist/xinxin_v1',
+   'EXECUTABLE')],)
